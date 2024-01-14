@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --h1: "DM Sans";
+
+  /* font sizes */
+  --h3-size: 20px;
+  --h4-size: 13px;
+  --h1-size: 40px;
+  --h2-size: 22px;
+  --font-size-sm: 14px;
+  --h5-size: 8px;
+  --font-size-3xs: 10px;
+
+  /* Colors */
+  --colors-grey-1: #f8f8f8;
+  --colors-white-100: #fff;
+  --colors-black-100: #000;
+  --color-gray: rgba(0, 0, 0, 0.75);
+  --color-orange-100: #ffb200;
+  --color-orange-200: rgba(255, 178, 0, 0.56);
+  --colors-light-primary: #dad7fe;
+  --colors-light-warning: #fff5cc;
+  --colors-light-info: #ccf8fe;
+  --colors-action-primary: #4339f2;
+  --colors-light-success: #e2fbd7;
+  --colors-light-danger: #ffe5d3;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-3xs: 10px;
+  --br-7xl: 26px;
+  --br-7xs: 6px;
+}

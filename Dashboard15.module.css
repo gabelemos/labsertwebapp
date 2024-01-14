@@ -1,0 +1,559 @@
+.color72 {
+  border-radius: var(--br-3xs);
+  background-color: var(--colors-white-100);
+}
+.color72,
+.elements-bg34,
+.elements-oval3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.elements-oval3 {
+  height: 5.81%;
+  width: 6.14%;
+  top: 60.47%;
+  right: 22.36%;
+  bottom: 33.72%;
+  left: 71.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.number,
+.number1,
+.number2,
+.number3,
+.number4,
+.number5,
+.number6 {
+  position: absolute;
+  width: 13.04%;
+  top: 0;
+  left: 86.96%;
+  font-weight: 500;
+  display: inline-block;
+}
+.number1,
+.number2,
+.number3,
+.number4,
+.number5,
+.number6 {
+  left: 72.47%;
+}
+.number2,
+.number3,
+.number4,
+.number5,
+.number6 {
+  left: 57.97%;
+}
+.number3,
+.number4,
+.number5,
+.number6 {
+  left: 43.49%;
+  opacity: 0.4;
+  mix-blend-mode: normal;
+}
+.number4,
+.number5,
+.number6 {
+  left: 28.99%;
+}
+.number5,
+.number6 {
+  left: 14.5%;
+}
+.number6 {
+  left: 0;
+}
+.number-parent {
+  position: absolute;
+  height: 3.37%;
+  width: 84.39%;
+  top: 34.07%;
+  right: 7.75%;
+  bottom: 62.56%;
+  left: 7.86%;
+}
+.number10,
+.number11,
+.number12,
+.number13 {
+  position: absolute;
+  width: 13.04%;
+  top: 0;
+  left: 43.49%;
+  font-weight: 500;
+  display: inline-block;
+}
+.number11,
+.number12,
+.number13 {
+  left: 28.99%;
+}
+.number12,
+.number13 {
+  left: 14.5%;
+}
+.number13 {
+  left: 0;
+}
+.number-group {
+  position: absolute;
+  height: 3.37%;
+  width: 84.39%;
+  top: 47.91%;
+  right: 7.75%;
+  bottom: 48.72%;
+  left: 7.86%;
+}
+.number15 {
+  position: absolute;
+  width: 13.04%;
+  top: 0;
+  left: 72.47%;
+  font-weight: 500;
+  color: var(--colors-white-100);
+  display: inline-block;
+}
+.number-container,
+.number-parent1,
+.number-parent2 {
+  position: absolute;
+  height: 3.37%;
+  width: 84.39%;
+  top: 61.74%;
+  right: 7.75%;
+  bottom: 34.88%;
+  left: 7.86%;
+}
+.number-parent1,
+.number-parent2 {
+  top: 75.58%;
+  bottom: 21.05%;
+}
+.number-parent2 {
+  top: 89.42%;
+  bottom: 7.21%;
+}
+.march {
+  position: absolute;
+  top: calc(50% - 360px);
+  left: 370px;
+  font-size: var(--h1-size);
+  font-weight: 500;
+}
+.icons-arrow-arrow-2-left1,
+.icons-arrow-arrow-2-righ1 {
+  position: absolute;
+  height: 4.65%;
+  width: 4.91%;
+  top: 8.95%;
+  right: 59.83%;
+  bottom: 86.4%;
+  left: 35.26%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icons-arrow-arrow-2-righ1 {
+  right: 35.26%;
+  left: 59.83%;
+}
+.text87,
+.text88 {
+  width: 13%;
+  top: 0;
+  font-weight: 500;
+  display: inline-block;
+  opacity: 0.4;
+}
+.text87 {
+  position: absolute;
+  left: 87%;
+  mix-blend-mode: normal;
+}
+.text88 {
+  left: 72.5%;
+}
+.text88,
+.text89,
+.text90 {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.text89 {
+  width: 13%;
+  top: 0;
+  left: 58%;
+  font-weight: 500;
+  display: inline-block;
+  opacity: 0.4;
+}
+.text90 {
+  left: 43.51%;
+}
+.text90,
+.text91,
+.text92 {
+  width: 13%;
+  top: 0;
+  font-weight: 500;
+  display: inline-block;
+  opacity: 0.4;
+}
+.text91 {
+  position: absolute;
+  left: 29.01%;
+  mix-blend-mode: normal;
+}
+.text92 {
+  left: 14.5%;
+}
+.text-parent10,
+.text92,
+.text93 {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.text93 {
+  width: 13%;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  opacity: 0.4;
+}
+.text-parent10 {
+  height: 3.37%;
+  width: 81.74%;
+  top: 20%;
+  right: 9.16%;
+  bottom: 76.63%;
+  left: 9.09%;
+  opacity: 0.6;
+}
+.elements-line-gorizontal8 {
+  position: absolute;
+  height: 0.12%;
+  width: 90.17%;
+  top: 26.98%;
+  right: 4.91%;
+  bottom: 72.91%;
+  left: 4.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.elements-oval4 {
+  height: 1.16%;
+  width: 1.23%;
+  top: 47.79%;
+  right: 60.2%;
+  bottom: 51.05%;
+  left: 38.57%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.calendar,
+.elements-oval4,
+.elements-oval5 {
+  position: absolute;
+  overflow: hidden;
+}
+.elements-oval5 {
+  height: 1.16%;
+  width: 1.23%;
+  top: 33.95%;
+  right: 36%;
+  bottom: 64.88%;
+  left: 62.78%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.calendar {
+  top: 100px;
+  left: 746px;
+  width: 814px;
+  height: 860px;
+  text-align: center;
+}
+.menu-icon3 {
+  top: 0;
+  left: 0;
+  width: 96px;
+  height: 1000px;
+}
+.elements-user8,
+.menu-icon3,
+.search-icon2 {
+  position: absolute;
+  object-fit: cover;
+}
+.search-icon2 {
+  top: 26px;
+  left: 136px;
+  border-radius: 999px;
+  width: 77px;
+  height: 24px;
+  overflow: hidden;
+}
+.elements-user8 {
+  top: 0;
+  left: 0;
+  width: 41px;
+  height: 40px;
+}
+.elements-user9 {
+  left: 47px;
+  width: 41px;
+  object-fit: cover;
+}
+.elements-user10,
+.elements-user9,
+.plus-icon {
+  position: absolute;
+  top: 0;
+  height: 40px;
+}
+.elements-user10 {
+  left: 94px;
+  width: 41px;
+  object-fit: cover;
+}
+.plus-icon {
+  left: 141px;
+  width: 40px;
+}
+.users3 {
+  top: 190px;
+  left: 30px;
+  width: 181px;
+  height: 40px;
+}
+.jordan,
+.text94,
+.users3 {
+  position: absolute;
+}
+.jordan {
+  top: calc(50% - 39.5px);
+  left: 0;
+  font-weight: 500;
+}
+.text94 {
+  top: 30px;
+  left: 30px;
+  width: 416px;
+  height: 79px;
+  overflow: hidden;
+}
+.icons-more-horizontal10 {
+  position: absolute;
+  top: 30px;
+  left: 516px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+  opacity: 0.2;
+}
+.elements-line-gorizontal10,
+.elements-line-gorizontal9 {
+  position: absolute;
+  height: 23.53%;
+  width: 100%;
+  top: 76.47%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.elements-line-gorizontal10 {
+  width: 31.96%;
+  right: 68.04%;
+}
+.digits {
+  position: absolute;
+  top: 0;
+  right: 0;
+  line-height: 20px;
+  display: inline-block;
+  width: 56px;
+}
+.group43 {
+  position: absolute;
+  top: 136px;
+  left: 30px;
+  width: 510px;
+  height: 34px;
+  overflow: hidden;
+  text-align: right;
+  font-size: var(--font-size-sm);
+  color: #ff3a29;
+}
+.card,
+.plus-icon1,
+.users4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 570px;
+  height: 260px;
+}
+.plus-icon1,
+.users4 {
+  left: 47px;
+  width: 40px;
+  height: 40px;
+}
+.users4 {
+  top: 190px;
+  left: 30px;
+  width: 87px;
+}
+.elements-line-gorizontal12 {
+  position: absolute;
+  height: 23.53%;
+  width: 60.59%;
+  top: 76.47%;
+  right: 39.41%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.card1,
+.group44 {
+  position: absolute;
+}
+.group44 {
+  top: 136px;
+  left: 30px;
+  width: 510px;
+  height: 34px;
+  overflow: hidden;
+  text-align: right;
+  font-size: var(--font-size-sm);
+  color: #34b53a;
+}
+.card1 {
+  top: 300px;
+  left: 0;
+  width: 570px;
+  height: 260px;
+}
+.plus-icon2,
+.users5 {
+  position: absolute;
+  top: 0;
+  left: 94px;
+  width: 40px;
+  height: 40px;
+}
+.users5 {
+  top: 190px;
+  left: 30px;
+  width: 134px;
+}
+.monitore-as-condies {
+  margin: 0;
+}
+.every-large-design-container {
+  position: absolute;
+  width: 100%;
+  top: 49.37%;
+  left: 0;
+  font-size: var(--h4-size);
+  line-height: 20px;
+  display: inline-block;
+  opacity: 0.4;
+  mix-blend-mode: normal;
+}
+.group45 {
+  position: absolute;
+  top: 136px;
+  left: 30px;
+  width: 510px;
+  height: 34px;
+  overflow: hidden;
+  text-align: right;
+  font-size: var(--font-size-sm);
+  color: var(--color-orange-100);
+}
+.card2,
+.cards3,
+.users-icon6 {
+  position: absolute;
+  top: 600px;
+  left: 0;
+  width: 570px;
+  height: 260px;
+}
+.cards3,
+.users-icon6 {
+  top: 100px;
+  left: 136px;
+  height: 860px;
+}
+.users-icon6 {
+  top: 35px;
+  left: 1353px;
+  width: 200px;
+  height: 46px;
+}
+.logo-removebg-preview-2-icon {
+  position: absolute;
+  top: 33px;
+  left: 16px;
+  width: 64px;
+  height: 34px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.raymond-griffin15 {
+  position: absolute;
+  top: calc(50% - 476px);
+  left: 10.94%;
+  font-weight: 500;
+}
+.icon-22,
+.icon-74 {
+  position: absolute;
+  height: 2.6%;
+  width: 1.63%;
+  top: 71.8%;
+  right: 96.19%;
+  bottom: 25.6%;
+  left: 2.19%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  opacity: 0.2;
+  cursor: pointer;
+}
+.icon-22 {
+  top: 23.8%;
+  bottom: 73.6%;
+}
+.dashboard-15 {
+  position: relative;
+  background-color: var(--colors-grey-1);
+  width: 100%;
+  height: 1000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--h2-size);
+  color: var(--colors-black-100);
+  font-family: var(--h1);
+}
